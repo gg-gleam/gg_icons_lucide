@@ -1,0 +1,12 @@
+name = "gg_icons_lucide"
+version = "0.1.0"
+description = "Lucide icons for Lustre, baked into Gleam — dual-target, tree-shakeable, conforming to the gg_icon interface. Generated from upstream Lucide; do not hand-edit the shard modules."
+licences = ["MIT", "ISC"]
+
+[dependencies]
+gleam_stdlib = ">= 1.0.0 and < 2.0.0"
+lustre = ">= 5.7.0 and < 6.0.0"
+gg_icon = { path = "../../gg_icon" }
+
+[dev_dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"

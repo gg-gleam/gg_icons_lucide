@@ -1,0 +1,12 @@
+{
+  "set": "lucide",
+  "variants": ["lucide"],
+  "defaultVariant": "lucide",
+  "icons": {
+    "lucide": {
+      "chevron_down": "c",
+      "check": "c",
+      "x": "x"
+    }
+  }
+}
